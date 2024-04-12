@@ -30,7 +30,7 @@ pyrogram>=2.0.30
  wget 
  pytz
  aiofiles
- dnspython==2.3.0
+ dnspython==2.6.1
  ### googletrans==4.0.0-rc1 ###
 python-decouple
 ffmpeg-python>=0.2.0
